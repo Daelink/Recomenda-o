@@ -2,3 +2,4 @@ Flask
 scikit-learn
 flask-cors
 firebase-admin
+gunicorn
